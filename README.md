@@ -1,6 +1,6 @@
 <h1 align="center">Hi 👋, I'm Amar Pakhare</h1>
 <h3 align="center">Developing Software Developer</h3>
-
+<img src = "https://img.freepik.com/free-vector/colourful-illustration-programmer-working_23-2148281410.jpg?w=740&t=st=1667443193~exp=1667443793~hmac=1630d1256d48d3875645d182e6d1fad526edb171b7e197bfb0bc15f7544751da">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=amarpakhare&label=Profile%20views&color=0e75b6&style=flat" alt="amarpakhare" /> </p>
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=amarpakhare" alt="amarpakhare" /></a> </p>
