@@ -9,7 +9,7 @@
 - 🔭 I’m currently working on [Smart Home Web App (Frontend)] (https://amarpakhare.github.io/SmartHome/)  
   
 
-- 🌱 I’m currently learning Bootstrap5 and ReactNative  
+- 🌱 I’m currently learning React and NodeJS 
   
 
 - ❓ Ask me about anything related to core software development  
